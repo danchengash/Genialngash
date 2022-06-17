@@ -1,6 +1,6 @@
 
-<h3>DANCHE<h3/>
-<img align="top" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<h3>NGASH<h3/>
+<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Genialngash&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
