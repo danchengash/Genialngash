@@ -1,6 +1,6 @@
 
-
-
+##DANCHE
+<img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Genialngash&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
