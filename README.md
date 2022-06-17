@@ -1,6 +1,6 @@
 
 <h3>DANCHE<h3/>
-<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="top" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Genialngash&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,5 +11,5 @@
 - 😄 Pronouns: Ngash E.G.H.
 - ⚡ Fun fact: <--Still thinking of a way to summarize all the physics in single formula printable on a mug.-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Genialngash&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Genialngash&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
