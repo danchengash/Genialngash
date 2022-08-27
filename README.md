@@ -3,7 +3,7 @@
   
   ### Programming Languages 🌐
 
-| [<img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="Dart" width="24">](https://dart.dev/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" width="24">](https://flutter.dev/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" width="24">](https://www.typescriptlang.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Golang" height="24" width="26">](https://go.dev/) | [<img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" alt="Angular" width="24">](https://angular.io/)
+| [<img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="Dart" width="24">](https://dart.dev/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" width="24">](https://flutter.dev/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Golang" height="24" width="26">](https://go.dev/) | |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" width="24">](https://www.typescriptlang.org/) || [<img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" alt="Angular" width="24">](https://angular.io/)
 <!-- |---|---|---|---|---|---| -->
   
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
