@@ -10,7 +10,7 @@
   ### Tools and Software
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Vs-Codium](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Vs-Codium](https://img.shields.io/badge/-VSCodium%20%20-%2304356A?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   [![Parrot Os](https://img.shields.io/badge/-Parrot%20OS%20%20-%2304356A?style=for-the-badge&logo=Debian&logoColor=white)](https://www.parrotsec.org/)
   
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
