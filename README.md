@@ -13,6 +13,7 @@
   [![Vs-Codium](https://img.shields.io/badge/-VSCodium%20%20-%2304356A?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://vscodium.com/)
   [![Parrot Os](https://img.shields.io/badge/-Parrot%20OS%20%20-%2304356A?style=for-the-badge&logo=Debian&logoColor=white)](https://www.parrotsec.org/)
   [![AWS](https://img.shields.io/badge/-AWS%20%20-%23EC7211?style=for-the-badge&logo=amazon&logoColor=white)](https://aws.amazon.com/)
+  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
   
   
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
