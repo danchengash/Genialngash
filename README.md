@@ -12,7 +12,7 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   [![Vs-Codium](https://img.shields.io/badge/-VSCodium%20%20-%2304356A?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://vscodium.com/)
   [![Parrot Os](https://img.shields.io/badge/-Parrot%20OS%20%20-%2304356A?style=for-the-badge&logo=Debian&logoColor=white)](https://www.parrotsec.org/)
-  [![AWS](https://img.shields.io/badge/-AWS%20%20-%23EC7211?style=for-the-badge&logo=Aws&logoColor=white)](https://aws.amazon.com/)
+  [![AWS](https://img.shields.io/badge/-AWS%20%20-%23EC7211?style=for-the-badge&logo=amazon&logoColor=white)](https://aws.amazon.com/)
   
   
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -24,7 +24,8 @@
 - 🌱 I’m currently learning:  AWS,LASERS.
 - 😄 Pronouns: Ngash E.G.H.
 - ⚡ <--Still thinking of a way to summarize all the physics in single formula printable on a mug.-->
-![Profile views](https://gpvc.arturio.dev/Genialngash)  
+
+  ![Profile views](https://gpvc.arturio.dev/Genialngash)  
 
 <h3> 🤝🏻 Get in touch with me! </h3>
 
