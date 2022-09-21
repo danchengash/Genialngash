@@ -2,14 +2,16 @@
 <h3>NGASH<h3/>
   
   ### Programming Languages and frameworks🌐
- [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
-  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&Link=https:google.com&logo=dart&logoColor=white)
-  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-  ![Angular](https://img.shields.io/badge/-Angular-%23DD0031?$style=for-the-badge&logo=Angular&logoColor=white)
- 
-
-{ [<img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="Dart" width="24">](https://dart.dev/) ><  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" width="24">](https://flutter.dev/)>< [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Golang" height="24" width="26">](https://go.dev/) >< [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" width="24">](https://www.typescriptlang.org/) >< [<img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" alt="Angular" width="24">](https://angular.io/) }
-<!-- |---|---|---|---|---|---| -->
+  [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
+  [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&Link=https:google.com&logo=dart&logoColor=white)](https://dart.dev/)
+  [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)]
+  [![Angular](https://img.shields.io/badge/-Angular-%23DD0031?style=for-the-badge&logo=Angular&logoColor=white)](https://angular.io/)
+  [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
+  ### Tools and Software
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  [![Parrot Os](https://img.shields.io/badge/-Parrot%20OS%20%20-%2304356A?style=for-the-badge&logo=Parrot-os&logoColor=white)](https://www.parrotsec.org/)
   
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -20,8 +22,6 @@
 - 🌱 I’m currently learning:  AWS,LASERS.
 - 😄 Pronouns: Ngash E.G.H.
 - ⚡ <--Still thinking of a way to summarize all the physics in single formula printable on a mug.-->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Genialngash&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <h3> 🤝🏻 Get in touch with me! </h3>
