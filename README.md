@@ -4,14 +4,14 @@
   ### Programming Languages and frameworks🌐
   [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
   [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&Link=https:google.com&logo=dart&logoColor=white)](https://dart.dev/)
-  [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)]
+  [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
   [![Angular](https://img.shields.io/badge/-Angular-%23DD0031?style=for-the-badge&logo=Angular&logoColor=white)](https://angular.io/)
   [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
   ### Tools and Software
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  [![Parrot Os](https://img.shields.io/badge/-Parrot%20OS%20%20-%2304356A?style=for-the-badge&logo=Parrot-os&logoColor=white)](https://www.parrotsec.org/)
+  ![Vs-Codium](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  [![Parrot Os](https://img.shields.io/badge/-Parrot%20OS%20%20-%2304356A?style=for-the-badge&logo=Debian&logoColor=white)](https://www.parrotsec.org/)
   
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -27,4 +27,5 @@
 <h3> 🤝🏻 Get in touch with me! </h3>
 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="telegram" width="38">](https://t.me/Algorithm1001)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngangadanche@gmail.com)
 
