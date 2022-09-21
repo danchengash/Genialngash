@@ -3,7 +3,7 @@
   
   ### Programming Languages and frameworks🌐
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-  ![Dart](https://dart.dev/)(https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&Link=https:google.com&logo=dart&logoColor=white)
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
   ![Angular](https://img.shields.io/badge/-Angular-%23DD0031?$style=for-the-badge&logo=Angular&logoColor=white)
  
