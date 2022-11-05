@@ -20,7 +20,7 @@
 
 [![Danche's GitHub stats](https://github-readme-stats.vercel.app/api?username=Genialngash&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on: FLUTTER/dart projects
+- 🔭 I’m currently working on: FLUTTER && GolANG projects
 - 👯 I’m looking to collaborate on: GoLANG/FLUTTER Projects
 - 🌱 I’m currently learning:  AWS,LASERS.
 - 😄 Pronouns: Ngash E.G.H.
