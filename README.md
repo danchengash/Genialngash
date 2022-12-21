@@ -15,6 +15,7 @@
   [![AWS](https://img.shields.io/badge/-AWS%20%20-%23EC7211?style=for-the-badge&logo=amazon&logoColor=white)](https://aws.amazon.com/)
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
   [![GraphQl](https://img.shields.io/badge/-GrahQl-ff69b4?style=for-the-badge&logo=graphql)](https://graphql.org/)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  
   
   
